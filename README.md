@@ -6,7 +6,7 @@
 <ul>
   <li>🌱 I’m currently exploring the world of programming and eager to learn more!</li>
   <li>💡 I enjoy experimenting with new technologies and tools.</li>
-  <li>🌐 I'm interested in learning about web development, cybersecurity, game development, and other related technologies.</li>
+  <li>🌐 I'm interested in learning about robotics, web development, cybersecurity, game development, and other related technologies.</li>
   <li>🔧 I'm skilled at problem-solving and enjoy tackling complex challenges.</li>
   <li>📚 I'm constantly expanding my knowledge through online courses, tutorials, and hands-on projects.</li>
   <li>🎓 I'm committed to academic excellence and strive to excel in both my studies and practical application of knowledge in real-world projects.</li>
